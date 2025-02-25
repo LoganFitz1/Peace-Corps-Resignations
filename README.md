@@ -1,4 +1,4 @@
-## Motivation
+## Motivation for Analysis
 
 The Peace Corps is a U.S. Government program that sends American volunteers all over the world to work on community-driven projects in education, health, agriculture, youth development, and more. The mission of the Peace Corps is to promote world peace and friendship by helping countries develop and build understanding between cultures. Volunteers typically commit two years of service, and stay in their country or region of assignment until their service is complete.
 
