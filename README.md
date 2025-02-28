@@ -29,9 +29,9 @@ Links to Data Sources:
 
 My analysis of Peace Corps resignation data shows an average of 186 resignations per country, with 2019 standing out as the peak year, totaling 4,128 early departures. The most common reason cited for leaving was "no reason listed" followed by family-related reasons, while Morocco recorded the highest number of resignations due to the "amount of work." Of all participating countries, only 14 had zero early terminations, highlighting the widespread nature of early departures. Africa led all regions in both the total number of volunteers and the highest number of resignations, demonstrating the unique challenges and demands of service in that continent. 
 
-<img src="/Users/loganfitz/Desktop/Data Science Data/PeaceCorpsFinal/Total Volunteers by Region 2007 to 2020.png" alt="Total Volunteers by Region 2007 to 2020">
-<img src="/Users/loganfitz/Desktop/Data Science Data/PeaceCorpsFinal/Primary Reasons for Resignation by Country - Ecuador.png" alt="Primary Reasons for Resignation by Country - Ecuador">
-<img src="/Users/loganfitz/Desktop/Data Science Data/PeaceCorpsFinal/Average Resignations by Country.png" alt="Average Resignations by Country">
+<img src="Total Volunteers by Region 2007 to 2020.png" alt=" Total Volunteers by Region 2007 to 2020" width="50%">
+<img src="Primary Reasons for Resignation by Country - Ecuador.png" alt=" Primary Reasons for Resignation by Country - Ecuador" width="50%">
+<img src="Average Resignations by Country.png" alt=" Average Resignations by Country" width="50%">
 
 
 
